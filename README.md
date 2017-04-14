@@ -2,7 +2,7 @@
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-A tiny command line tool for upload images to instagram, using [Unoficial API](https://github.com/huttarichard/instagram-private-api/).
+A tiny command line tool for upload images to instagram, using [Unofficial API](https://github.com/huttarichard/instagram-private-api/).
 
 >login
 
