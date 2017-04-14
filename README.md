@@ -4,6 +4,24 @@
 
 A tiny command line tool for upload images to instagram, using [Unoficial API](https://github.com/huttarichard/instagram-private-api/).
 
+>login
+
+![](static/screen2.png)
+
+>upload
+
+![](static/screen1.png)
+
+## Installation
+
+Install using npm:
+```
+npm install -g ig-upload
+```
+or yarn
+```
+yarn global add ig-upload
+```
 ## Usage
 
 ```bash
