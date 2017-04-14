@@ -1,6 +1,6 @@
 
 # build output
-packed
+dist
 
 # dependencies
 node_modules
