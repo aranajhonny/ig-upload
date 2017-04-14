@@ -1,13 +1,15 @@
 
 # build output
 dist
+/dist/
 
 # dependencies
 node_modules
 
 # logs
+yarn.lock
+yarn.log
 npm-debug.log
-build
 
 # fake data
 db.json

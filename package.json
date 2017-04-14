@@ -15,7 +15,12 @@
       "env"
     ]
   },
-  "keywords": [],
+  "keywords": [
+    "upload",
+    "upload-images",
+    "api",
+    "instagram"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
