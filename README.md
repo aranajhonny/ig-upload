@@ -34,9 +34,9 @@ ig-upload [command] || [filename ...]
   upload - upload images or videos
   help - display help
 ```
-## Caught a Bug?
+## Caution
 
-
+Note that I am not a master doing CLI applications. I'm learning and I needed this. Possibly the code sucks.
 
 ## Authors
 
