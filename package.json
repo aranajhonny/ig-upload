@@ -1,6 +1,6 @@
 {
   "name": "ig-upload",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A tiny command line tool for upload images to instagram",
   "main": "index.js",
   "scripts": {
