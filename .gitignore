@@ -1,0 +1,13 @@
+
+# build output
+packed
+
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+build
+
+# fake data
+db.json
