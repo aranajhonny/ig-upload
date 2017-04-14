@@ -7,7 +7,7 @@ A tiny command line tool for upload images to instagram, using [Unoficial API](h
 ## Usage
 
 ```bash
-ig-upload [command] [filename ...]
+ig-upload [command] || [filename ...]
 ```
 ### Comands
 ```
@@ -22,7 +22,7 @@ ig-upload [command] [filename ...]
 
 ## Authors
 
-- Naoyuki Kanezawa ([@aranajhonny](https://twitter.com/aranajhonny))
+- Jhonny Arana ([@aranajhonny](https://twitter.com/aranajhonny))
 
 ## Please
 
