@@ -4,13 +4,13 @@
 
 A tiny command line tool for upload images to instagram, using [Unofficial API](https://github.com/huttarichard/instagram-private-api/).
 
->login
+#### `login`
 
-![](static/screen2.png)
+![screen2](https://cloud.githubusercontent.com/assets/499192/25118213/90c4aaec-2415-11e7-8495-220fbf33c71c.png)
 
->upload
+#### `upload`
 
-![](static/screen1.png)
+![screen1](https://cloud.githubusercontent.com/assets/499192/25118210/9002ecea-2415-11e7-9b44-34d5ae574fba.png)
 
 ## Installation
 
