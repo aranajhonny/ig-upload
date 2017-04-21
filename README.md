@@ -1,6 +1,7 @@
 # ig-upload [WIP]
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Build Status](https://travis-ci.org/aranajhonny/blog.svg?branch=master)](https://travis-ci.org/aranajhonny/ig-upload)
 
 A tiny command line tool for upload images to instagram, using [Unofficial API](https://github.com/huttarichard/instagram-private-api/).
 
