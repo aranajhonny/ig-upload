@@ -11,7 +11,7 @@ A tiny command line tool for upload images to instagram, using [Unofficial API](
 
 #### `upload`
 
-![screen1](https://cloud.githubusercontent.com/assets/499192/25118210/9002ecea-2415-11e7-9b44-34d5ae574fba.png)
+![screen1](https://cloud.githubusercontent.com/assets/9091881/25263761/d471175a-262f-11e7-9bfd-f02465fedc1e.png)
 
 ## Installation
 
