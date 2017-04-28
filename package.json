@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run test && babel lib -d dist",
-    "test": "prettier --write  --single-quote lib/**/*.js"
+    "test": "prettier --write  --single-quote lib/**/*.js utils/**/*.js"
   },
   "files": "dist",
   "bin": {
@@ -35,7 +35,9 @@
     "del": "^2.2.2",
     "fs-promise": "^2.0.2",
     "instagram-private-api": "^0.5.16",
+    "instagram_js_filter": "^1.4.0",
     "minimist": "^1.2.0",
+    "ora": "^1.2.0",
     "readline-sync": "^1.4.7"
   },
   "devDependencies": {
